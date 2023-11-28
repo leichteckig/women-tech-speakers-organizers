@@ -47,7 +47,7 @@ This list originally started from a [Twitter list](https://twitter.com/ladyleet/
 - [Getting Started](#getting-started)
   - [United States](#united-states-3)
   - [Europe](#europe-3)
-  - [India](#india-2)
+  - [](#-2)
   - [Nigeria](#nigeria-2)
   - [Australia](#australia)
   - [Colombia](#colombia)
@@ -1549,7 +1549,16 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Cluj-Napoca, Romania; Berlin, Germany
 - Languages besides English - Spanish, French.
 
-### India
+#### Ramona Schwering
+
+- [@leichteckig] (https://twitter.com/leichteckig)
+- [Website] (https://ramona.codes)
+- [LinkedIn](https://www.linkedin.com/in/cotishe](https://www.linkedin.com/in/ramona-schwering/)
+- Topics - Frontend Development (Javascript, CSS), Test Automation, Web Security, Identity
+- Location - Germany, Münster
+- Languages besides English - German and Dutch
+
+### 
 
 #### Kriti Doneria
 
